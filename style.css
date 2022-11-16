@@ -8,6 +8,6 @@ body {
 
 svg {
     background-color: white;
-    width: min (70vh, 100vw);
-    height: min (70vh, 100vw);
+    width: min(70vh, 100vw);
+    height: min(70vh, 100vw);
 }
